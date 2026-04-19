@@ -32,6 +32,8 @@ Here are the languages, tools, and fields I am currently proficient in or active
 * **My favs / Self-Directed Learning:** <br>
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=green)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-2196F3?style=for-the-badge&logo=markdown&logoColor=white)
 *  **University Curriculum (Expanding as studies progress):** <br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
