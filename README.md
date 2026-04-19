@@ -29,8 +29,11 @@ I'm currently a **University Student** with a deep passion for technology. I enj
 Here are the languages, tools, and fields I am currently proficient in or actively studying:
 
 ### Programming & Web
+* **My favs / Self-Directed Learning:** <br>
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=green)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+*  **University Curriculum (Expanding as studies progress):** <br>
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS&logoColor=white)
 
