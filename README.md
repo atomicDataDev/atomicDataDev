@@ -10,17 +10,18 @@ I'm currently a **University Student** with a deep passion for technology. I enj
 - 🌍 **Languages I speak:** 
   - **English:** B2 (Upper-Intermediate)
   - **Russian:** Native
-- 🔭 **Currently Working On:** [**`tg-reaper`**](https://github.com/atomicDataDev/tg-reaper) — *(Check out the repository!)*
+- 🔭 **Currently Working On:** A comprehensive **Exploratory Data Analysis (EDA)** project — *(Coming to GitHub soon!)*
+- 🏆 **Recent Milestone:** Successfully completed and released **v2.0** of my Telegram automation tool, [**`tg-reaper`**](https://github.com/atomicDataDev/tg-reaper).
 - 🌱 **My Main Focus Areas:** Data Science, Cybersecurity, and Network Administration.
 - 💡 **Interests:** Creating unique software solutions, exploring network architectures, and protecting data.
 - 📫 **How to reach me:** You can contact me via Telegram or Email below!
+
 <a href="https://t.me/ZXCplusplus">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Profile" />
 </a>
 <a href="mailto:techworxmailbox@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Contact" />
 </a>
-
 
 ---
 
@@ -34,7 +35,8 @@ Here are the languages, tools, and fields I am currently proficient in or active
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-2196F3?style=for-the-badge&logo=markdown&logoColor=white)
-*  **University Curriculum (Expanding as studies progress):** <br>
+
+* **University Curriculum (Expanding as studies progress):** <br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS&logoColor=white)
@@ -49,7 +51,7 @@ Here are the languages, tools, and fields I am currently proficient in or active
 ## 💻 Featured Project
 
 ### [tg-reaper](https://github.com/atomicDataDev/tg-reaper)
-An interesting project I am currently developing. It showcases my interest in creating practical and engaging programs. Feel free to explore the code, open issues, or contribute!
+A fully completed, professional Telegram automation tool. It features a robust session manager, advanced stealth capabilities (persistent device emulation), and various operational modes. Built entirely in Python using Telethon and Rich. Feel free to explore the code or use it as a reference for your own projects!
 
 ---
 
