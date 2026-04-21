@@ -10,8 +10,8 @@ I'm currently a **University Student** with a deep passion for technology. I enj
 - 🌍 **Languages I speak:** 
   - **English:** B2 (Upper-Intermediate)
   - **Russian:** Native
-- 🔭 **Currently Working On:** A comprehensive **Exploratory Data Analysis (EDA)** project — *(Coming to GitHub soon!)*
-- 🏆 **Recent Milestone:** Successfully completed and released **v2.0** of my Telegram automation tool, [**`tg-reaper`**](https://github.com/atomicDataDev/tg-reaper).
+- 🔭 **Currently Working On:** little DS pet-project – *(Coming to GitHub soon!)*
+- 🏆 **Recent Milestone:** Successfully completed and released my [**Exploratory Data Analysis (EDA)**](https://github.com/atomicDataDev/Global-EV-Market-Analysis) project.
 - 🌱 **My Main Focus Areas:** Data Science, Cybersecurity, and Network Administration.
 - 💡 **Interests:** Creating unique software solutions, exploring network architectures, and protecting data.
 - 📫 **How to reach me:** You can contact me via Telegram or Email below!
@@ -49,6 +49,9 @@ Here are the languages, tools, and fields I am currently proficient in or active
 ---
 
 ## 💻 Featured Project
+
+### [Global EV Market Analysis](https://github.com/atomicDataDev/Global-EV-Market-Analysis)
+A comprehensive Exploratory Data Analysis (EDA) project focusing on global vehicle sales data from 2010 to 2024. Built utilizing Python, pandas, and Seaborn, this project uncovers hidden market trends through extensive data processing and visualizations. The analysis ultimately led to extracting crucial insights and drawing important conclusions regarding the evolution and growth trajectory of the global EV market.
 
 ### [tg-reaper](https://github.com/atomicDataDev/tg-reaper)
 A fully completed, professional Telegram automation tool. It features a robust session manager, advanced stealth capabilities (persistent device emulation), and various operational modes. Built entirely in Python using Telethon and Rich. Feel free to explore the code or use it as a reference for your own projects!
