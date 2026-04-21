@@ -10,7 +10,7 @@ I'm currently a **University Student** with a deep passion for technology. I enj
 - 🌍 **Languages I speak:** 
   - **English:** B2 (Upper-Intermediate)
   - **Russian:** Native
-- 🔭 **Currently Working On:** little DS pet-project – *(Coming to GitHub soon!)*
+- 🔭 **Currently Working On:** Little DS pet-project – *(Coming to GitHub soon!)*
 - 🏆 **Recent Milestone:** Successfully completed and released my [**Exploratory Data Analysis (EDA)**](https://github.com/atomicDataDev/Global-EV-Market-Analysis) project.
 - 🌱 **My Main Focus Areas:** Data Science, Cybersecurity, and Network Administration.
 - 💡 **Interests:** Creating unique software solutions, exploring network architectures, and protecting data.
